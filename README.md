@@ -11,4 +11,4 @@ For the most recent year reported, 371k traffic collisions occurred throughout t
                       
 While there have been many theories behind what have been the main causes of these accidents, the goal of my case study is to perform an in-depth analysis on the historic crashed to identify specific trends, derive insights and present strong recommendations based on the results obtained.
 I have utilized the open data provided by the New York government which contains details on the crash events recorded. 
-![image](https://user-images.githubusercontent.com/66448653/203167267-f9fcc61b-fc77-404f-9f08-55e0970c5f02.png)
+
