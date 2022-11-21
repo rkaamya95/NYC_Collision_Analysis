@@ -1,4 +1,4 @@
-#Introduction
+**Introduction**
 
 Statistics states that each year, at least 1000 people are killed in traffic accidents in New York State.
 For the most recent year reported, 371k traffic collisions occurred throughout the state of New York. These crashed have resulted in over 1k fatalities, 12k serious injuries. Over 100k additional people have suffered minor to moderate injuries in these accidents. These accidents are scattered across the five major boroughs of New York.
